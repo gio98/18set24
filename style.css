@@ -44,11 +44,11 @@
   
   @media only screen and (max-height: 640px) {
     .card {
-      flex-direction: row-reverse;
+      flex-direction: column-reverse;
     }
     .card img.birthday {
-      width: 100%;
-      max-width: 50vw;
+      width: 160%;
+      max-width: 300vw;
       max-height: unset;
     }
   }
